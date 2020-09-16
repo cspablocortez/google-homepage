@@ -1,8 +1,5 @@
 # google-homepage
 
-## Assignment
-
-### Easy version: Build the Google homepage.
 
 ### Assignment
 
