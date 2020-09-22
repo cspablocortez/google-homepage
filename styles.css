@@ -1,0 +1,34 @@
+html, body {
+	max-width: 100%;
+	overflow-x: hidden;
+}
+
+body {
+	color: #222;
+	font-family: arial, sans-serif;
+}
+
+#navbar {
+	font-size: 13px;
+	position: absolute;
+	margin: 7px 0 0 10px;
+	width: 100%;
+}
+
+#navbar .item {
+	display: inline-block;
+	padding-left: 15px;
+	color: #000;
+	opacity: 0.75;
+}
+
+#nav-left {
+	float: left;
+	overflow: hidden;
+}
+
+#nav-right {
+	float: right;
+	padding-right: 35px;
+	overflow-x: none;
+}
